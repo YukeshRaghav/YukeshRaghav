@@ -1,5 +1,3 @@
-**GitHub Introduction 🚀✨**
-
 Hey there! I'm Yukesh Raghavan, a passionate tech enthusiast and aspiring full-stack developer 🌟. Currently immersed in the world of web technologies, I'm on a mission to master the art of building seamless web experiences using **HTML**, **CSS**, **JavaScript**, and **Node.js**.
 
 **What Drives Me 🔥**
